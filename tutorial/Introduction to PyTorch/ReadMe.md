@@ -4,7 +4,7 @@ Based on https://pytorch.org/tutorials/beginner/basics/intro.html
 | ---- | ---- |
 | Learn the Basics |  |
 | Quickstart |  |
-| Tensors |  |
+| Tensors | 13/02/2024 |
 | Datasets & DataLoaders |  |
 | Transforms |  |
 | Optimization |  |
